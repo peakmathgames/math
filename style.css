@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(35,35,50);
+}
+#nav {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 100vw;
+  height: 5vh;
+  background-color: rgb(45,45,60);
+}
+#navhead {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  color: white;
+  transform: translate(-50%, -50%);
+  font-family: monospace;
+}
