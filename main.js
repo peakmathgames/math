@@ -8,7 +8,7 @@ const games = [
   {title: "Drift Boss", image: "thumbnails/driftboss.jpg", file: "games/driftboss.html"},
   {title: "Eaglercraft", image: "thumbnails/eaglercraft.jpg", file: "games/eaglercraft.html"},
   {title: "Escape Road", image: "thumbnails/escaperoad.jpg", file: "games/escaperoad.html"},
-  {title: "Five Nights at Freddy's", image: "thumbnails/fnaf.jpg", file: "games/fnaf.html"},
+  {title: "FNAF", image: "thumbnails/fnaf.jpg", file: "games/fnaf.html"},
   {title: "Retro Bowl", image: "thumbnails/retrobowl.jpg", file: "games/retrobowl.html"},
   {title: "Rocket League", image: "thumbnails/rocketleague.jpg", file: "games/rocketleague.html"},
   {title: "Slope Rider 3D", image: "thumbnails/sloperider3d.jpg", file: "games/sloperider3d.html"},
